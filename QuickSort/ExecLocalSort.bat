@@ -1,1 +1,1 @@
-mpiexec -n 2 Debug\Quicksort.exe 1000 5
+mpiexec -n 2 Debug\Quicksort.exe 50 5
