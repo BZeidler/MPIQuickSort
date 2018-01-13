@@ -1,0 +1,67 @@
+### Execution Times ###
+
+ArraySize: 200000   Sort Sycles: 20
+
+Total execution time: 38112891225ns
+
+Run #0:
+Sort only: 19336491ns   Sort & Modify: 54990539ns   Modify only: 35654048ns
+
+Run #1:
+Sort only: 19336491ns   Sort & Modify: 54990539ns   Modify only: 35654048ns
+
+Run #2:
+Sort only: 19336491ns   Sort & Modify: 54990539ns   Modify only: 35654048ns
+
+Run #3:
+Sort only: 19336491ns   Sort & Modify: 54990539ns   Modify only: 35654048ns
+
+Run #4:
+Sort only: 19336491ns   Sort & Modify: 54990539ns   Modify only: 35654048ns
+
+Run #5:
+Sort only: 19336491ns   Sort & Modify: 54990539ns   Modify only: 35654048ns
+
+Run #6:
+Sort only: 19336491ns   Sort & Modify: 54990539ns   Modify only: 35654048ns
+
+Run #7:
+Sort only: 19336491ns   Sort & Modify: 54990539ns   Modify only: 35654048ns
+
+Run #8:
+Sort only: 19336491ns   Sort & Modify: 54990539ns   Modify only: 35654048ns
+
+Run #9:
+Sort only: 19336491ns   Sort & Modify: 54990539ns   Modify only: 35654048ns
+
+Run #10:
+Sort only: 19336491ns   Sort & Modify: 54990539ns   Modify only: 35654048ns
+
+Run #11:
+Sort only: 19336491ns   Sort & Modify: 54990539ns   Modify only: 35654048ns
+
+Run #12:
+Sort only: 19336491ns   Sort & Modify: 54990539ns   Modify only: 35654048ns
+
+Run #13:
+Sort only: 19336491ns   Sort & Modify: 54990539ns   Modify only: 35654048ns
+
+Run #14:
+Sort only: 19336491ns   Sort & Modify: 54990539ns   Modify only: 35654048ns
+
+Run #15:
+Sort only: 19336491ns   Sort & Modify: 54990539ns   Modify only: 35654048ns
+
+Run #16:
+Sort only: 19336491ns   Sort & Modify: 54990539ns   Modify only: 35654048ns
+
+Run #17:
+Sort only: 19336491ns   Sort & Modify: 54990539ns   Modify only: 35654048ns
+
+Run #18:
+Sort only: 19336491ns   Sort & Modify: 54990539ns   Modify only: 35654048ns
+
+Run #19:
+Sort only: 19336491ns   Sort & Modify: 54990539ns   Modify only: 35654048ns
+
+Avg. Sorting time: 19336491  Avg. Total time: 54990539  Avg. Modifying time: 35654048
